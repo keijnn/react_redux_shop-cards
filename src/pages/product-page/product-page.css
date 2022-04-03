@@ -1,0 +1,23 @@
+.product-page__content {
+    display: flex;
+}
+
+.product-page__left {
+    width: 70%;
+}
+
+.product-page__right {
+    width: 30%;
+}
+
+.change_info {
+    background-color: antiquewhite;
+    font-weight: bold;
+    color: black;
+    width: 100px;
+    text-align: center;
+    padding: 5px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
